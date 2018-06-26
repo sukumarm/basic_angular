@@ -1,0 +1,40 @@
+{
+  "orgs": [
+    {
+      "id": "1",
+      "type": "Individual/Sole Proprietor",
+      "code": "Y",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "type": "Corporation",
+      "code": "Y",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "type": "Legal Services Corporation",
+      "code": "Y",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "type": "Medical Services Corporation",
+      "code": "Y",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "type": "Partnership, LLC",
+      "code": "Y",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "type": "Non-Profit or Government",
+      "code": "Y",
+      "active": "1"
+    }
+  ]
+}
